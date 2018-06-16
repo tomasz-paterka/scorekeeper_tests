@@ -1,0 +1,14 @@
+.AddPlayer {
+	padding: 15px;
+}
+
+.AddPlayer__input, .AddPlayer__submit {
+	padding: 5px;
+}
+
+.AddPlayer__submit {
+	background-color: #006df0;
+	color: #fff;
+	border-color: #c1c1c1;
+	font-weight: 700;
+}
